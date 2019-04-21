@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "773768488219",
+    "firebase_url": "https://highschoolprint-237d8.firebaseio.com",
+    "project_id": "highschoolprint-237d8",
+    "storage_bucket": "highschoolprint-237d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773768488219:android:c10014fe5ea4de1f",
+        "android_client_info": {
+          "package_name": "com.example.eliad.highschoolprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773768488219-5koutmfek9ctn9rlo31fn2ssf5ggqjja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eliad.highschoolprint",
+            "certificate_hash": "67eda27449adfcd9001a321bf45040ef849bad32"
+          }
+        },
+        {
+          "client_id": "773768488219-b1fcilve7cj0l3dmusirjjm6lq82bgok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eliad.highschoolprint",
+            "certificate_hash": "5fd7f7c0dc5c4941fb425215ac4c88ea3ffe695f"
+          }
+        },
+        {
+          "client_id": "773768488219-or2l9b5qb10op7anisrndkr4qbq836gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eliad.highschoolprint",
+            "certificate_hash": "f51d26c5cd2efc093cf9e448ddc5453df9aa959b"
+          }
+        },
+        {
+          "client_id": "773768488219-nnunkd06paebu2apphrn36nj08dsm0ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa_DbHAq0SSb17f5IWbsl0dyQezq3Q7P8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773768488219-nnunkd06paebu2apphrn36nj08dsm0ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773768488219:android:04137ea1e1f26d25",
+        "android_client_info": {
+          "package_name": "com.example.eliad.highschoolprint3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773768488219-01sg9k1enodnktq68da9ad7ul53ek71f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eliad.highschoolprint3",
+            "certificate_hash": "67eda27449adfcd9001a321bf45040ef849bad32"
+          }
+        },
+        {
+          "client_id": "773768488219-nnunkd06paebu2apphrn36nj08dsm0ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa_DbHAq0SSb17f5IWbsl0dyQezq3Q7P8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773768488219-nnunkd06paebu2apphrn36nj08dsm0ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
